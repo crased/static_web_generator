@@ -1,8 +1,7 @@
 # Gabriel's portfolio website
- 
-## quick access:
 
-- [skills](/subCat/skills)
+## quick access:
+- [skills](/subCat/skills/)
 - [Projects](/subCat/projects)
 - [About me](/subCat/hobbies)
 
