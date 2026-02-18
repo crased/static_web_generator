@@ -1,18 +1,14 @@
 # Gabriel's portfolio website
+ 
+## quick access:
+
+- [skills](/subCat/skill)
+- [Projects](/subCat/projects)
+- [About me](/subCat/hobbies)
 
 ![JRR To1lkien sitting](/images/tolkien.png)
 
-Here's the deal, **I like Tolkien**.
 
-> "I am in fact a Hobbit in all but size."
->
-> -- J.R.R. Tolkien
-
-## Blog posts
-
-- [skills](/blog/glorfindel)
-- [Projects](/blog/tom)
-- [Hobbies](/blog/majesty)
 
 ## Reasons I like Tolkien
 
