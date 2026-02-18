@@ -2,7 +2,7 @@
  
 ## quick access:
 
-- [skills](/subCat/skill)
+- [skills](/subCat/skills)
 - [Projects](/subCat/projects)
 - [About me](/subCat/hobbies)
 
