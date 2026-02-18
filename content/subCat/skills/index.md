@@ -10,13 +10,13 @@
 In the annals of fantasy literature and the broader realm of creative world-building, few sagas can rival the intricate tapestry woven by J.R.R. Tolkien in _The Lord of the Rings_. You can find the [wiki here](https://lotr.fandom.com/wiki/Legendarium).
 
 ## Languages
-[images/logos/Python.svg] **Python**,[< link to project](/subCat/projects)
-[images/logos/TS.svg] **JS,TS**,[< link to project](/subCat/projects)
-[images/logos/C.svg] **C,CSS**,[< link to project](/subCat/projects)
-[images/logos/Sql.svg] **SQL**,[< link to project](/subCat/projects)
+![credits in readme](images/logos/Python.svg) **Python**,[< link to project](/subCat/projects)
+![credits in readme](images/logos/TS.svg) **JS,TS**,[< link to project](/subCat/projects)
+![credits in readme](images/logos/C.svg) **C,CSS**,[< link to project](/subCat/projects)
+![credits in readme](images/logos/Sql.svg) **SQL**,[< link to project](/subCat/projects)
 ## Frameworks
-[images/logos/React.svg] **React**,
+![credits in readme](images/logos/React.svg) **React**,
 
 ## Future skills
-[/images/logos/Rust.svg] **Rust**
+![credits in readme](/images/logos/Rust.svg) **Rust**
 

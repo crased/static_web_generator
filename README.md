@@ -6,3 +6,4 @@ TypeScript icon by Icons8 (https://icon8.com/icon/uJM6fQYqDaZK/typescript)
 https://commons.wikimedia.org/wiki/File:Python-logo-notext.svg
 By Rust Foundation, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=40715219
 SQL logo (https://www.svgrepo.com/svg/331760/sql-database-generic)
+React logo (https://www.svgrepo.com/svg/452092/react?edit=true)
